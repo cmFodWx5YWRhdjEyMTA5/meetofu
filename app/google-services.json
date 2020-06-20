@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282024747265",
+    "firebase_url": "https://mitofubymaanas.firebaseio.com",
+    "project_id": "mitofubymaanas",
+    "storage_bucket": "mitofubymaanas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282024747265:android:968dfd1284cc9bce9e7b00",
+        "android_client_info": {
+          "package_name": "maanas.mitofu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282024747265-6763act74tofptm3cn5nmjlp07ahp18s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASt0eIbF4zWa_1wsw584ZdvdWuRkS87o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282024747265-6763act74tofptm3cn5nmjlp07ahp18s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
